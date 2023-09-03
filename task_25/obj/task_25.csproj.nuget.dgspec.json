@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj": {}
+    "C:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj": {
+    "C:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj",
+        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj",
         "projectName": "task_25",
-        "projectPath": "c:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj",
+        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\task_25.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\obj\\",
+        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\GB\\CSharpHW3\\task_25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
